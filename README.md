@@ -218,3 +218,9 @@ RFM 분석은 고객을 다음 세 가지 기준으로 평가하는 방법입니
 **Data Source:** UCI Machine Learning Repository — Online Retail Dataset
 
 https://archive.ics.uci.edu/dataset/352/online+retail
+
+## 포트폴리오 보고서
+
+데이터 전처리부터 매출 분석, RFM 고객 세분화, 재구매 분석, 코호트 분석 및 마케팅 전략까지 정리한 보고서입니다.
+
+[📄 포트폴리오 PDF 보기](Retail_Analysis_Portfolio_Enhanced.pdf)
